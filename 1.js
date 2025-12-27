@@ -1,3 +1,3 @@
-function changeHTML(Id, text) {
+function changeHTML(Id,text) {
 				document.getElementById(Id).innerHTML = text;
 				}
